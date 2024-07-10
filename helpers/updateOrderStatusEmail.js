@@ -53,7 +53,7 @@ const updateOrderStatusEmail = (buyer, orderNumber, orderDate, orderStatus)=>{
     Sr. Software Engineer<br>
     Amir Store Pvt. Ltd<br>
     +91-9661272784<br>
-     <a href = 'http://localhost:3000/signup'>http://localhost:3000/</a>
+     <a href = 'https://amirstore.onrender.com/'>amirstore.onrender.com</a>
     `
     }
 }
